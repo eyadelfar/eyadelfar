@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eyadamen588@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view](https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
