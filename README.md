@@ -100,5 +100,6 @@
         </a> 
     </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyadelfar&show_icons=true&theme=dark&title_color=ffffff&text_color=919191&hide_border=true&locale=en&layout=compact" alt="eyadelfar" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyadelfar" alt="eyadelfar" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20views&color=009dff&style=plastic" alt="eyadelfar" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=dark&title_color=ffffff&text_color=919191&bg_color=303030&hide_border=true&locale=en" alt="eyadelfar" /></p>
