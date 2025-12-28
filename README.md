@@ -2,28 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eyad%20Elfar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-<h2>🚀 AI Engineer | LLM Specialist | Agentic Systems Architect</h2>
+# 🚀 AI Engineer | LLM Specialist | Agentic Systems Architect
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=700&lines=Building+Production-Grade+AI+Solutions;10%2B+AI+Systems+Across+Fintech+%26+Real+Estate;Expert+in+LLMs%2C+RAG+%26+Multi-Agent+Systems;Transforming+Data+into+Business+Impact" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/eyadelfar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://kaggle.com/eyadamin1233">
-    <img src="https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:eyadamen588@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view">
-    <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyadelfar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view)
 
-<img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 </div>
 
@@ -36,7 +26,6 @@
 <details open>
 <summary><b>💻 Click to see the code (and a surprise!)</b></summary>
 
-<br/>
 ```python
 class EyadElfar:
     def __init__(self):
@@ -74,7 +63,7 @@ print(f"Let's build the future together! 🚀")
   
 ### ⚡ Output:
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1;Crafting+AI+solutions+that+matter!+%F0%9F%94%A5" alt="Animated Output" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1" alt="Animated Output" />
 
 </div>
 
@@ -84,56 +73,11 @@ print(f"Let's build the future together! 🚀")
 
 ### 🎯 Quick Highlights
 
-<!-- IMPORTANT: Avoid Markdown (####, -, **) inside HTML <table> for renderer compatibility -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Professional Impact</h4>
-      <ul>
-        <li><b>10+ Production AI Systems</b> deployed</li>
-        <li><b>3 Industries</b> transformed (Fintech, Real Estate, EdTech)</li>
-        <li><b>Sub-750ms latency</b> at enterprise scale</li>
-        <li><b>12K+ concurrent events</b> processed</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 Proven Results</h4>
-      <ul>
-        <li><b>68%</b> reduction in operational time</li>
-        <li><b>15%</b> increase in conversion rates</li>
-        <li><b>90%</b> automation of manual tasks</li>
-        <li><b>Top 1% Kaggler</b> in NLP competitions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<tr>
-<td width="50%">
-
-#### 🎓 Education & Recognition
-- **B.S. in CS & AI** - Excellent with Honors
-- **Helwan University** (2020-2024)
-- **5+ Certifications** (McKinsey, Coursera, Udacity)
-
-</td>
-<td width="50%">
-
-#### 🚀 Current Focus
-- Building scalable AI agents
-- Real-time ML systems
-- LLM optimization & fine-tuning
-- Enterprise AI automation
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=800&lines=Specializing+in+LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%7C+Computer+Vision;Passionate+about+AI+solutions+that+create+real-world+impact!)](https://github.com/eyadelfar)
-
-</div>
+- 🏆 **Delivered 10+ production AI systems** across Fintech, Real Estate & EdTech
+- ⚡ **Sub-second latency** multi-agent systems processing 12K+ concurrent events
+- 📈 **Proven Impact**: 68% efficiency gains, 15% conversion boosts, 90% automation
+- 🎓 **Bachelor in CS & AI** - Helwan University (Excellent with Honors)
+- 🏅 **Top 1% Kaggle Competitor** in NLP challenges
 
 ---
 
@@ -402,17 +346,36 @@ Developed an advanced face detection and recognition system using **YOLO, Retina
 
 <div align="center">
 
-## 🎓 INTERACTIVE RESUME
+<table style="width:85%; margin:auto;">
+<tr><td>
 
 ## 📋 Professional Summary
 
-| Item | Details |
-|---|---|
-| 🎯 Role | AI Engineer specializing in LLMs, RAG, and Agentic Systems |
-| 🏆 Track Record | 10 production-grade AI solutions delivered |
-| 🏢 Industries | Fintech, Real Estate, EdTech |
-| 💡 Expertise | Scalable, multimodal, sub-second latency AI systems |
-| 🌟 Philosophy | Blend research innovation with enterprise-grade reliability |
+<table>
+<tr>
+<td><b>🎯 Role</b></td>
+<td>AI Engineer specializing in LLMs, RAG, and Agentic Systems</td>
+</tr>
+<tr>
+<td><b>🏆 Track Record</b></td>
+<td>10 production-grade AI solutions delivered</td>
+</tr>
+<tr>
+<td><b>🏢 Industries</b></td>
+<td>Fintech, Real Estate, EdTech</td>
+</tr>
+<tr>
+<td><b>💡 Expertise</b></td>
+<td>Building scalable, multimodal, sub-second latency AI systems</td>
+</tr>
+<tr>
+<td><b>🌟 Philosophy</b></td>
+<td>Blend research innovation with enterprise-grade reliability</td>
+</tr>
+</table>
+
+</td></tr>
+<tr><td>
 
 ## 💼 Experience Timeline
 
@@ -431,6 +394,9 @@ gantt
     section e-finance
     Data Analyst :done, 2023-09, 2023-12
 ```
+
+</td></tr>
+<tr><td>
 
 ## 🎯 Key Achievements by Numbers
 
@@ -567,56 +533,24 @@ gantt
 ---
 
 <div align="center">
-  <h1>📊 GITHUB STATISTICS</h1>
 
-  <!-- GitHub Readme Stats (public instance can rate-limit; cache helps) -->
-  <a href="https://github.com/eyadelfar">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"
-      alt="GitHub Stats"
-    />
-  </a>
+# 📊 GITHUB STATISTICS
 
-  <a href="https://github.com/eyadelfar?tab=repositories">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      alt="Top Languages"
-    />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-  <br /><br />
+<br/><br/>
 
-  <!-- Streak Stats -->
-  <a href="https://github.com/eyadelfar">
-    <img
-      width="90%"
-      src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      alt="GitHub Streak"
-    />
-  </a>
+<img width="90%" src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
 
-  <br /><br />
+<br/><br/>
 
-  <!-- Activity Graph (deployment moved to cyclic; vercel is fallback) -->
-  <a href="https://github.com/eyadelfar">
-    <img
-      width="90%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"
-      alt="Contribution Graph"
-    />
-  </a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
-  <br /><br />
+<br/><br/>
 
-  <!-- Trophies -->
-  <a href="https://github.com/eyadelfar?tab=achievements">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&margin-w=4&column=7&row=1"
-      alt="GitHub Trophies"
-    />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
+
 </div>
 
 ---
