@@ -23,6 +23,9 @@
 
 <img align="right" alt="AI Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<details open>
+<summary><b>💻 Click to see the code (and a surprise!)</b></summary>
+
 ```python
 class EyadElfar:
     def __init__(self):
@@ -56,6 +59,18 @@ ai_engineer = EyadElfar()
 print(f"Let's build the future together! 🚀")
 ```
 
+<div align="center">
+  
+### ⚡ Output:
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1" alt="Animated Output" />
+
+</div>
+
+</details>
+
+<br clear="right"/>
+
 ### 🎯 Quick Highlights
 
 - 🏆 **Delivered 10+ production AI systems** across Fintech, Real Estate & EdTech
@@ -72,7 +87,7 @@ print(f"Let's build the future together! 🚀")
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -80,17 +95,21 @@ print(f"Let's build the future together! 🚀")
 **Baron & Cabot** | Dubai, UAE  
 *May 2025 - Present*
 
-**Impact Delivered:**
-- ⚡ 68% reduction in pre-call prep time
-- 📈 15% increase in first-call conversion
-- 🤖 7-agent orchestration system
-- 📊 90% automation of manual reporting
+#### Impact Delivered:
+<p style="font-size: 15px;">
+⚡ <b>68%</b> reduction in pre-call prep time<br/>
+📈 <b>15%</b> increase in first-call conversion<br/>
+🤖 <b>7-agent</b> orchestration system<br/>
+📊 <b>90%</b> automation of manual reporting
+</p>
 
-**Key Innovations:**
-- Real-time RAG pipelines for CRM intelligence
-- Multi-agent Sales Co-pilot on GCP Vertex AI
-- Sub-750ms WebSocket event processing
-- Agentic workflow with CrewAI
+#### Key Innovations:
+<p style="font-size: 14px;">
+• Real-time RAG pipelines for CRM intelligence<br/>
+• Multi-agent Sales Co-pilot on GCP Vertex AI<br/>
+• Sub-750ms WebSocket event processing<br/>
+• Agentic workflow with CrewAI
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -99,17 +118,21 @@ print(f"Let's build the future together! 🚀")
 **MENRV.AI** | Remote - UAE  
 *Apr 2024 - Apr 2025*
 
-**Impact Delivered:**
-- 🎯 90% virtual try-on fit accuracy
-- ⚡ 80% faster content creation
-- 🌍 5x increase in global accessibility
-- 📉 8 hours → 5 minutes reporting
+#### Impact Delivered:
+<p style="font-size: 15px;">
+🎯 <b>90%</b> virtual try-on fit accuracy<br/>
+⚡ <b>80%</b> faster content creation<br/>
+🌍 <b>5x</b> increase in global accessibility<br/>
+📉 <b>8 hours → 5 minutes</b> reporting
+</p>
 
-**Key Projects:**
-- vLLM merchandising suite (Shein, Myntra)
-- AI presentation assistant
-- Financial forecasting engine (BiLSTM + Prophet)
-- Multilingual TTS system (50+ languages)
+#### Key Projects:
+<p style="font-size: 14px;">
+• vLLM merchandising suite (Shein, Myntra)<br/>
+• AI presentation assistant<br/>
+• Financial forecasting engine (BiLSTM + Prophet)<br/>
+• Multilingual TTS system (50+ languages)
+</p>
 
 </td>
 </tr>
@@ -121,17 +144,21 @@ print(f"Let's build the future together! 🚀")
 **Just to Learn** | Remote - Egypt  
 *Nov 2024 - Apr 2025*
 
-**Impact Delivered:**
-- 👥 15,000+ students served
-- 🎯 92% educator alignment accuracy
-- 📊 75% reduction in debugging time
-- 🏫 Deployed across 20 German schools
+#### Impact Delivered:
+<p style="font-size: 15px;">
+👥 <b>15,000+</b> students served<br/>
+🎯 <b>92%</b> educator alignment accuracy<br/>
+📊 <b>75%</b> reduction in debugging time<br/>
+🏫 Deployed across <b>20 German schools</b>
+</p>
 
-**Key Innovations:**
-- AR learning platform AI engine
-- Handwriting recognition + LLM evaluator
-- CI/CD pipelines for model deployment
-- Interactive assessment analytics
+#### Key Innovations:
+<p style="font-size: 14px;">
+• AR learning platform AI engine<br/>
+• Handwriting recognition + LLM evaluator<br/>
+• CI/CD pipelines for model deployment<br/>
+• Interactive assessment analytics
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -140,16 +167,20 @@ print(f"Let's build the future together! 🚀")
 **iSchool** | Hybrid - Egypt  
 *Dec 2023 - Mar 2024*
 
-**Impact Delivered:**
-- 🎓 70+ students mentored
-- 🎮 36 AI-driven game projects
-- 📖 64 interactive sessions
+#### Impact Delivered:
+<p style="font-size: 15px;">
+🎓 <b>70+</b> students mentored<br/>
+🎮 <b>36</b> AI-driven game projects<br/>
+📖 <b>64</b> interactive sessions
+</p>
 
-**Taught:**
-- Python & AI fundamentals
-- Reinforcement Learning
-- Hands-on with Arduino & PictoBlox
-- Real-world AI applications
+#### Taught:
+<p style="font-size: 14px;">
+• Python & AI fundamentals<br/>
+• Reinforcement Learning<br/>
+• Hands-on with Arduino & PictoBlox<br/>
+• Real-world AI applications
+</p>
 
 </td>
 </tr>
@@ -325,18 +356,62 @@ Developed an advanced face detection and recognition system using **YOLO, Retina
 
 </div>
 
-<table>
+<table width="100%">
 <tr><td>
 
 ## 📋 Professional Summary
 
-```yaml
-Role: AI Engineer specializing in LLMs, RAG, and Agentic Systems
-Track Record: 10 production-grade AI solutions delivered
-Industries: Fintech, Real Estate, EdTech
-Expertise: Building scalable, multimodal, sub-second latency AI systems
-Philosophy: Blend research innovation with enterprise-grade reliability
-```
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+**🎯 Role**
+</td>
+<td>
+AI Engineer specializing in LLMs, RAG, and Agentic Systems
+</td>
+</tr>
+<tr>
+<td>
+
+**🏆 Track Record**
+</td>
+<td>
+10 production-grade AI solutions delivered
+</td>
+</tr>
+<tr>
+<td>
+
+**🏢 Industries**
+</td>
+<td>
+Fintech, Real Estate, EdTech
+</td>
+</tr>
+<tr>
+<td>
+
+**💡 Expertise**
+</td>
+<td>
+Building scalable, multimodal, sub-second latency AI systems
+</td>
+</tr>
+<tr>
+<td>
+
+**🌟 Philosophy**
+</td>
+<td>
+Blend research innovation with enterprise-grade reliability
+</td>
+</tr>
+</table>
+
+</div>
 
 </td></tr>
 <tr><td>
@@ -545,20 +620,34 @@ gantt
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadelfar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  
+<img width="90%" src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+  
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
+
 </div>
 
 ---
@@ -598,22 +687,24 @@ mindmap
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 💬 I'm Available For
+<h3>💬 I'm Available For</h3>
 
-- 🚀 **AI/ML Consulting** - LLMs, RAG, Agents
-- 💼 **Freelance Projects** - Production AI solutions
-- 🎓 **Mentorship** - Python, ML, AI fundamentals
-- 🔬 **Research Collaboration** - Computer Vision, NLP
-- 🎤 **Speaking Engagements** - AI, Data Science topics
+<p align="left" style="font-size: 15px;">
+🚀 <b>AI/ML Consulting</b> - LLMs, RAG, Agents<br/><br/>
+💼 <b>Freelance Projects</b> - Production AI solutions<br/><br/>
+🎓 <b>Mentorship</b> - Python, ML, AI fundamentals<br/><br/>
+🔬 <b>Research Collaboration</b> - Computer Vision, NLP<br/><br/>
+🎤 <b>Speaking Engagements</b> - AI, Data Science topics
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 📫 Reach Out
+<h3>📫 Reach Out</h3>
 
 <p>
 <a href="mailto:eyadamen588@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -628,8 +719,10 @@ mindmap
 <a href="https://github.com/eyadelfar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-**Location:** 📍 Dubai, UAE  
-**Phone:** 📞 +971589794339
+<p style="font-size: 15px; margin-top: 20px;">
+<b>Location:</b> 📍 Dubai, UAE<br/>
+<b>Phone:</b> 📞 +971589794339
+</p>
 
 </td>
 </tr>
