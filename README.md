@@ -2,18 +2,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eyad%20Elfar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-# 🚀 AI Engineer | LLM Specialist | Agentic Systems Architect
+<h2>🚀 AI Engineer | LLM Specialist | Agentic Systems Architect</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=700&lines=Building+Production-Grade+AI+Solutions;10%2B+AI+Systems+Across+Fintech+%26+Real+Estate;Expert+in+LLMs%2C+RAG+%26+Multi-Agent+Systems;Transforming+Data+into+Business+Impact" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyadelfar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view)
+<p>
+  <a href="https://linkedin.com/in/eyadelfar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/eyadamin1233">
+    <img src="https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:eyadamen588@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view">
+    <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=brightgreen&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -74,27 +84,30 @@ print(f"Let's build the future together! 🚀")
 
 ### 🎯 Quick Highlights
 
+<!-- IMPORTANT: Avoid Markdown (####, -, **) inside HTML <table> for renderer compatibility -->
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 Professional Impact</h4>
+      <ul>
+        <li><b>10+ Production AI Systems</b> deployed</li>
+        <li><b>3 Industries</b> transformed (Fintech, Real Estate, EdTech)</li>
+        <li><b>Sub-750ms latency</b> at enterprise scale</li>
+        <li><b>12K+ concurrent events</b> processed</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Proven Results</h4>
+      <ul>
+        <li><b>68%</b> reduction in operational time</li>
+        <li><b>15%</b> increase in conversion rates</li>
+        <li><b>90%</b> automation of manual tasks</li>
+        <li><b>Top 1% Kaggler</b> in NLP competitions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### 🏆 Professional Impact
-- **10+ Production AI Systems** deployed
-- **3 Industries** transformed (Fintech, Real Estate, EdTech)
-- **Sub-750ms latency** at enterprise scale
-- **12K+ concurrent events** processed
-
-</td>
-<td width="50%">
-
-#### 📈 Proven Results
-- **68%** reduction in operational time
-- **15%** increase in conversion rates
-- **90%** automation of manual tasks
-- **Top 1% Kaggler** in NLP competitions
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -389,36 +402,17 @@ Developed an advanced face detection and recognition system using **YOLO, Retina
 
 <div align="center">
 
-<table style="width:85%; margin:auto;">
-<tr><td>
+## 🎓 INTERACTIVE RESUME
 
 ## 📋 Professional Summary
 
-<table>
-<tr>
-<td><b>🎯 Role</b></td>
-<td>AI Engineer specializing in LLMs, RAG, and Agentic Systems</td>
-</tr>
-<tr>
-<td><b>🏆 Track Record</b></td>
-<td>10 production-grade AI solutions delivered</td>
-</tr>
-<tr>
-<td><b>🏢 Industries</b></td>
-<td>Fintech, Real Estate, EdTech</td>
-</tr>
-<tr>
-<td><b>💡 Expertise</b></td>
-<td>Building scalable, multimodal, sub-second latency AI systems</td>
-</tr>
-<tr>
-<td><b>🌟 Philosophy</b></td>
-<td>Blend research innovation with enterprise-grade reliability</td>
-</tr>
-</table>
-
-</td></tr>
-<tr><td>
+| Item | Details |
+|---|---|
+| 🎯 Role | AI Engineer specializing in LLMs, RAG, and Agentic Systems |
+| 🏆 Track Record | 10 production-grade AI solutions delivered |
+| 🏢 Industries | Fintech, Real Estate, EdTech |
+| 💡 Expertise | Scalable, multimodal, sub-second latency AI systems |
+| 🌟 Philosophy | Blend research innovation with enterprise-grade reliability |
 
 ## 💼 Experience Timeline
 
@@ -437,9 +431,6 @@ gantt
     section e-finance
     Data Analyst :done, 2023-09, 2023-12
 ```
-
-</td></tr>
-<tr><td>
 
 ## 🎯 Key Achievements by Numbers
 
