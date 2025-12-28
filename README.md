@@ -536,20 +536,24 @@ gantt
 
 # 📊 GITHUB STATISTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<!-- These use alternative/updated URLs -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
+<!-- Updated streak stats URL -->
+<img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
 
 <br/><br/>
 
+<!-- Activity graph - this one is working -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
+<!-- Trophy - working, removed problematic row parameter -->
+<img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
