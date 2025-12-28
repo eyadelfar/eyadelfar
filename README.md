@@ -26,6 +26,7 @@
 <details open>
 <summary><b>💻 Click to see the code (and a surprise!)</b></summary>
 
+<br/>
 ```python
 class EyadElfar:
     def __init__(self):
@@ -63,7 +64,7 @@ print(f"Let's build the future together! 🚀")
   
 ### ⚡ Output:
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1" alt="Animated Output" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1;Crafting+AI+solutions+that+matter!+%F0%9F%94%A5" alt="Animated Output" />
 
 </div>
 
@@ -73,11 +74,53 @@ print(f"Let's build the future together! 🚀")
 
 ### 🎯 Quick Highlights
 
-- 🏆 **Delivered 10+ production AI systems** across Fintech, Real Estate & EdTech
-- ⚡ **Sub-second latency** multi-agent systems processing 12K+ concurrent events
-- 📈 **Proven Impact**: 68% efficiency gains, 15% conversion boosts, 90% automation
-- 🎓 **Bachelor in CS & AI** - Helwan University (Excellent with Honors)
-- 🏅 **Top 1% Kaggle Competitor** in NLP challenges
+<table>
+<tr>
+<td width="50%">
+
+#### 🏆 Professional Impact
+- **10+ Production AI Systems** deployed
+- **3 Industries** transformed (Fintech, Real Estate, EdTech)
+- **Sub-750ms latency** at enterprise scale
+- **12K+ concurrent events** processed
+
+</td>
+<td width="50%">
+
+#### 📈 Proven Results
+- **68%** reduction in operational time
+- **15%** increase in conversion rates
+- **90%** automation of manual tasks
+- **Top 1% Kaggler** in NLP competitions
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 Education & Recognition
+- **B.S. in CS & AI** - Excellent with Honors
+- **Helwan University** (2020-2024)
+- **5+ Certifications** (McKinsey, Coursera, Udacity)
+
+</td>
+<td width="50%">
+
+#### 🚀 Current Focus
+- Building scalable AI agents
+- Real-time ML systems
+- LLM optimization & fine-tuning
+- Enterprise AI automation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=800&lines=Specializing+in+LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%7C+Computer+Vision;Passionate+about+AI+solutions+that+create+real-world+impact!)](https://github.com/eyadelfar)
+
+</div>
 
 ---
 
@@ -533,24 +576,56 @@ gantt
 ---
 
 <div align="center">
+  <h1>📊 GITHUB STATISTICS</h1>
 
-# 📊 GITHUB STATISTICS
+  <!-- GitHub Readme Stats (public instance can rate-limit; cache helps) -->
+  <a href="https://github.com/eyadelfar">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"
+      alt="GitHub Stats"
+    />
+  </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/eyadelfar?tab=repositories">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="Top Languages"
+    />
+  </a>
 
-<br/><br/>
+  <br /><br />
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
+  <!-- Streak Stats -->
+  <a href="https://github.com/eyadelfar">
+    <img
+      width="90%"
+      src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="GitHub Streak"
+    />
+  </a>
 
-<br/><br/>
+  <br /><br />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <!-- Activity Graph (deployment moved to cyclic; vercel is fallback) -->
+  <a href="https://github.com/eyadelfar">
+    <img
+      width="90%"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"
+      alt="Contribution Graph"
+    />
+  </a>
 
-<br/><br/>
+  <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
-
+  <!-- Trophies -->
+  <a href="https://github.com/eyadelfar?tab=achievements">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&margin-w=4&column=7&row=1"
+      alt="GitHub Trophies"
+    />
+  </a>
 </div>
 
 ---
