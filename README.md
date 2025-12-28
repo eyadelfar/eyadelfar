@@ -87,7 +87,9 @@ print(f"Let's build the future together! 🚀")
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table style="width:90%; margin:auto;">
 <tr>
 <td width="50%" valign="top">
 
@@ -96,20 +98,16 @@ print(f"Let's build the future together! 🚀")
 *May 2025 - Present*
 
 #### Impact Delivered:
-<p style="font-size: 15px;">
-⚡ <b>68%</b> reduction in pre-call prep time<br/>
-📈 <b>15%</b> increase in first-call conversion<br/>
-🤖 <b>7-agent</b> orchestration system<br/>
-📊 <b>90%</b> automation of manual reporting
-</p>
+⚡ **68%** reduction in pre-call prep time  
+📈 **15%** increase in first-call conversion  
+🤖 **7-agent** orchestration system  
+📊 **90%** automation of manual reporting
 
 #### Key Innovations:
-<p style="font-size: 14px;">
-• Real-time RAG pipelines for CRM intelligence<br/>
-• Multi-agent Sales Co-pilot on GCP Vertex AI<br/>
-• Sub-750ms WebSocket event processing<br/>
+• Real-time RAG pipelines for CRM intelligence  
+• Multi-agent Sales Co-pilot on GCP Vertex AI  
+• Sub-750ms WebSocket event processing  
 • Agentic workflow with CrewAI
-</p>
 
 </td>
 <td width="50%" valign="top">
@@ -119,20 +117,16 @@ print(f"Let's build the future together! 🚀")
 *Apr 2024 - Apr 2025*
 
 #### Impact Delivered:
-<p style="font-size: 15px;">
-🎯 <b>90%</b> virtual try-on fit accuracy<br/>
-⚡ <b>80%</b> faster content creation<br/>
-🌍 <b>5x</b> increase in global accessibility<br/>
-📉 <b>8 hours → 5 minutes</b> reporting
-</p>
+🎯 **90%** virtual try-on fit accuracy  
+⚡ **80%** faster content creation  
+🌍 **5x** increase in global accessibility  
+📉 **8 hours → 5 minutes** reporting
 
 #### Key Projects:
-<p style="font-size: 14px;">
-• vLLM merchandising suite (Shein, Myntra)<br/>
-• AI presentation assistant<br/>
-• Financial forecasting engine (BiLSTM + Prophet)<br/>
+• vLLM merchandising suite (Shein, Myntra)  
+• AI presentation assistant  
+• Financial forecasting engine (BiLSTM + Prophet)  
 • Multilingual TTS system (50+ languages)
-</p>
 
 </td>
 </tr>
@@ -145,20 +139,16 @@ print(f"Let's build the future together! 🚀")
 *Nov 2024 - Apr 2025*
 
 #### Impact Delivered:
-<p style="font-size: 15px;">
-👥 <b>15,000+</b> students served<br/>
-🎯 <b>92%</b> educator alignment accuracy<br/>
-📊 <b>75%</b> reduction in debugging time<br/>
-🏫 Deployed across <b>20 German schools</b>
-</p>
+👥 **15,000+** students served  
+🎯 **92%** educator alignment accuracy  
+📊 **75%** reduction in debugging time  
+🏫 Deployed across **20 German schools**
 
 #### Key Innovations:
-<p style="font-size: 14px;">
-• AR learning platform AI engine<br/>
-• Handwriting recognition + LLM evaluator<br/>
-• CI/CD pipelines for model deployment<br/>
+• AR learning platform AI engine  
+• Handwriting recognition + LLM evaluator  
+• CI/CD pipelines for model deployment  
 • Interactive assessment analytics
-</p>
 
 </td>
 <td width="50%" valign="top">
@@ -168,23 +158,21 @@ print(f"Let's build the future together! 🚀")
 *Dec 2023 - Mar 2024*
 
 #### Impact Delivered:
-<p style="font-size: 15px;">
-🎓 <b>70+</b> students mentored<br/>
-🎮 <b>36</b> AI-driven game projects<br/>
-📖 <b>64</b> interactive sessions
-</p>
+🎓 **70+** students mentored  
+🎮 **36** AI-driven game projects  
+📖 **64** interactive sessions
 
 #### Taught:
-<p style="font-size: 14px;">
-• Python & AI fundamentals<br/>
-• Reinforcement Learning<br/>
-• Hands-on with Arduino & PictoBlox<br/>
+• Python & AI fundamentals  
+• Reinforcement Learning  
+• Hands-on with Arduino & PictoBlox  
 • Real-world AI applications
-</p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -356,62 +344,35 @@ Developed an advanced face detection and recognition system using **YOLO, Retina
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table style="width:85%; margin:auto;">
 <tr><td>
 
 ## 📋 Professional Summary
 
-<div align="center">
-
 <table>
 <tr>
-<td>
-
-**🎯 Role**
-</td>
-<td>
-AI Engineer specializing in LLMs, RAG, and Agentic Systems
-</td>
+<td><b>🎯 Role</b></td>
+<td>AI Engineer specializing in LLMs, RAG, and Agentic Systems</td>
 </tr>
 <tr>
-<td>
-
-**🏆 Track Record**
-</td>
-<td>
-10 production-grade AI solutions delivered
-</td>
+<td><b>🏆 Track Record</b></td>
+<td>10 production-grade AI solutions delivered</td>
 </tr>
 <tr>
-<td>
-
-**🏢 Industries**
-</td>
-<td>
-Fintech, Real Estate, EdTech
-</td>
+<td><b>🏢 Industries</b></td>
+<td>Fintech, Real Estate, EdTech</td>
 </tr>
 <tr>
-<td>
-
-**💡 Expertise**
-</td>
-<td>
-Building scalable, multimodal, sub-second latency AI systems
-</td>
+<td><b>💡 Expertise</b></td>
+<td>Building scalable, multimodal, sub-second latency AI systems</td>
 </tr>
 <tr>
-<td>
-
-**🌟 Philosophy**
-</td>
-<td>
-Blend research innovation with enterprise-grade reliability
-</td>
+<td><b>🌟 Philosophy</b></td>
+<td>Blend research innovation with enterprise-grade reliability</td>
 </tr>
 </table>
-
-</div>
 
 </td></tr>
 <tr><td>
@@ -439,8 +400,6 @@ gantt
 
 ## 🎯 Key Achievements by Numbers
 
-<div align="center">
-
 | 🏆 Metric | 📊 Achievement |
 |:----------|:---------------|
 | **Production AI Systems** | 10+ deployed solutions |
@@ -452,16 +411,12 @@ gantt
 | **Students Mentored** | 70+ future AI engineers |
 | **Kaggle Ranking** | Top 1% in competitions |
 
-</div>
-
 </td></tr>
 <tr><td>
 
 ## 🛠️ Technical Arsenal
 
 ### 🤖 AI/ML Specializations
-
-<div align="center">
 
 ![LLMs](https://img.shields.io/badge/LLMs-Fine--tuning_(LoRA%2FQLoRA)-FF6B6B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-4ECDC4?style=for-the-badge)
@@ -471,11 +426,7 @@ gantt
 ![Generative AI](https://img.shields.io/badge/Generative-AI-FCBAD3?style=for-the-badge)
 ![RL](https://img.shields.io/badge/Reinforcement-Learning-A8E6CF?style=for-the-badge)
 
-</div>
-
 ### 💻 Programming & Frameworks
-
-<div align="center">
 
 **Core Languages**  
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -496,11 +447,7 @@ gantt
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![Detectron](https://img.shields.io/badge/Detectron2-FF6F61?style=for-the-badge)
 
-</div>
-
 ### ☁️ Cloud & Infrastructure
-
-<div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -508,11 +455,7 @@ gantt
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-</div>
-
 ### 🔧 MLOps & Data Engineering
-
-<div align="center">
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -520,11 +463,7 @@ gantt
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ### 🌐 APIs & Web Development
-
-<div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -532,22 +471,14 @@ gantt
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
-</div>
-
 ### 📊 Visualization & BI
-
-<div align="center">
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-</div>
-
 ### 🤖 Automation & Scraping
-
-<div align="center">
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green?style=for-the-badge)
@@ -555,14 +486,10 @@ gantt
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
-</div>
-
 </td></tr>
 <tr><td>
 
 ## 🎓 Education
-
-<div align="center">
 
 ### 🏛️ Bachelor of Computer Science and Artificial Intelligence
 **Helwan University** | Egypt  
@@ -575,14 +502,10 @@ gantt
 - Integration: MySQL, MS SSIS, Live Dashboard
 - Innovation: Single-capture attendance with high accuracy
 
-</div>
-
 </td></tr>
 <tr><td>
 
 ## 📜 Certifications & Training
-
-<div align="center">
 
 | 🏆 Certification | 🏢 Provider | 📅 Year |
 |:----------------|:------------|:--------|
@@ -592,24 +515,20 @@ gantt
 | **Data Science Diploma** | Orange Digital Center | 2023 |
 | **Machine Learning Nanodegree** | Udacity & EGFWD | 2023 |
 
-</div>
-
 </td></tr>
 <tr><td>
 
 ## 🌍 Languages
-
-<div align="center">
 
 | Language | Proficiency |
 |:---------|:------------|
 | 🇪🇬 **Arabic** | Native |
 | 🇬🇧 **English** | Professional |
 
-</div>
-
 </td></tr>
 </table>
+
+</div>
 
 ---
 
@@ -617,35 +536,19 @@ gantt
 
 # 📊 GITHUB STATISTICS
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyadelfar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadelfar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  
 <img width="90%" src="https://streak-stats.demolab.com/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub Streak"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  
 <img src="https://github-profile-trophy.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
 
 </div>
@@ -687,24 +590,29 @@ mindmap
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table style="width:85%; margin:auto;">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>💬 I'm Available For</h3>
+### 💬 I'm Available For
 
-<p align="left" style="font-size: 15px;">
+<p align="left">
+<br/>
 🚀 <b>AI/ML Consulting</b> - LLMs, RAG, Agents<br/><br/>
 💼 <b>Freelance Projects</b> - Production AI solutions<br/><br/>
 🎓 <b>Mentorship</b> - Python, ML, AI fundamentals<br/><br/>
 🔬 <b>Research Collaboration</b> - Computer Vision, NLP<br/><br/>
-🎤 <b>Speaking Engagements</b> - AI, Data Science topics
+🎤 <b>Speaking Engagements</b> - AI, Data Science topics<br/><br/>
 </p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>📫 Reach Out</h3>
+### 📫 Reach Out
+
+<br/>
 
 <p>
 <a href="mailto:eyadamen588@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -719,14 +627,18 @@ mindmap
 <a href="https://github.com/eyadelfar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p style="font-size: 15px; margin-top: 20px;">
-<b>Location:</b> 📍 Dubai, UAE<br/>
+<br/>
+
+<p>
+<b>Location:</b> 📍 Dubai, UAE<br/><br/>
 <b>Phone:</b> 📞 +971589794339
 </p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
