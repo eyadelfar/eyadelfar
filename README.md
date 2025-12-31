@@ -41,8 +41,6 @@ Favorite areas:
 • Knowledge search (so AI can use your data)  
 • Automation and smart workflows  
 • Multimodal experiences (text + images and more)
-
-🚀 Let’s build the future together!
 ```
 
 <div align="center">
