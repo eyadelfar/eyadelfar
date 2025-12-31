@@ -11,58 +11,44 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyadelfar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1q7shiqhDR0smYX-y83PA4NJTeHkZo6bv/view)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
+## 👋 About Me
 
 <img align="right" alt="AI Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <details open>
-<summary><b>💻 Click to see the code (and a surprise!)</b></summary>
+<summary><b>✨ Click for a quick intro (and a surprise!)</b></summary>
 
-```python
-class EyadElfar:
-    def __init__(self):
-        self.title = "AI Engineer"
-        self.location = "Dubai, UAE 🇦🇪"
-        self.company = "Baron & Cabot"
-        self.specialization = [
-            "Large Language Models (LLMs)",
-            "Retrieval-Augmented Generation (RAG)",
-            "Agentic AI Systems",
-            "Multimodal AI"
-        ]
-        
-    def achievements(self):
-        return {
-            "production_systems": 10,
-            "industries": ["Fintech", "Real Estate", "EdTech"],
-            "performance": "Sub-second latency",
-            "scale": "Enterprise-grade"
-        }
-    
-    def current_focus(self):
-        return [
-            "Building scalable AI agents",
-            "Optimizing LLM performance",
-            "Real-time ML systems",
-            "AI automation at scale"
-        ]
+```text
+Hi, I’m Eyad 👋
 
-ai_engineer = EyadElfar()
-print(f"Let's build the future together! 🚀")
+📍 Based in Dubai, UAE 🇦🇪  
+🏢 AI Engineer @ Baron & Cabot  
+
+What I do:
+• Build AI features that feel fast, helpful, and reliable  
+• Turn messy real-world problems into practical products  
+• Work with language, search, and automation to improve user experiences  
+
+Favorite areas:
+• Conversational AI & assistants  
+• Knowledge search (so AI can use your data)  
+• Automation and smart workflows  
+• Multimodal experiences (text + images and more)
+
+🚀 Let’s build the future together!
 ```
 
 <div align="center">
-  
+
 ### ⚡ Output:
-  
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+build+the+future+together!+%F0%9F%9A%80;Innovation+starts+here!+%E2%9C%A8;Transform+ideas+into+reality!+%F0%9F%92%A1" alt="Animated Output" />
 
 </div>
@@ -73,11 +59,11 @@ print(f"Let's build the future together! 🚀")
 
 ### 🎯 Quick Highlights
 
-- 🏆 **Delivered 10+ production AI systems** across Fintech, Real Estate & EdTech
-- ⚡ **Sub-second latency** multi-agent systems processing 12K+ concurrent events
-- 📈 **Proven Impact**: 68% efficiency gains, 15% conversion boosts, 90% automation
-- 🎓 **Bachelor in CS & AI** - Helwan University (Excellent with Honors)
-- 🏅 **Top 1% Kaggle Competitor** in NLP challenges
+* 🏆 **Delivered 10+ AI systems in production** across Fintech, Real Estate & EdTech
+* ⚡ Built **fast, real-time systems** that handle heavy activity smoothly
+* 📈 **Measured impact**: 68% efficiency gains, 15% conversion boosts, 90% automation
+* 🎓 **BSc in CS & AI** — Helwan University (Excellent with Honors)
+* 🏅 **Top 1% Kaggle competitor** in NLP challenges
 
 ---
 
