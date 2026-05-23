@@ -1,9 +1,5 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img width="100%" src="./assets/header-dark.svg" alt="Eyad Elfar — AI Engineer · LLM Specialist · Agentic Systems Architect" />
-</picture>
+<img width="100%" src="./assets/header-dark.svg" alt="Eyad Elfar — AI Engineer · LLM Specialist · Agentic Systems Architect" />
 
 <br />
 
@@ -435,10 +431,6 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-  <img width="100%" src="./assets/footer-dark.svg" alt="The best way to predict the future is to create it." />
-</picture>
+<img width="100%" src="./assets/footer-dark.svg" alt="The best way to predict the future is to create it." />
 
 </div>
