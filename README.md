@@ -7,9 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Bronze%20Notebook%20Medal-B8860B?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
-
-<br /><br />
-
+<br />
 <img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=3ABEF9&style=flat-square" alt="Profile views" />
 
 </div>
