@@ -15,11 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark%20Mode%20Detected-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light%20Mode%20Detected-F6F8FA?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff" />
-  <img src="https://img.shields.io/badge/Theme-Auto%20Theme%20Aware-3ABEF9?style=for-the-badge&logo=github&logoColor=white" alt="Theme-aware GitHub badge" />
-</picture>
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=3ABEF9&style=flat-square" alt="Profile views" />
@@ -409,7 +404,7 @@ mindmap
 ---
 
 <details>
-<summary><b><img src="https://api.iconify.design/lucide:chart-spline.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Chart icon" /> Theme-Aware GitHub Activity</b></summary>
+<summary><b><img src="https://api.iconify.design/lucide:chart-spline.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Chart icon" /> GitHub Activity</b></summary>
 
 <br />
 
