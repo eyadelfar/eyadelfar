@@ -8,8 +8,6 @@
 
 # AI Engineer · LLM Specialist · Agentic Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1100&color=3ABEF9&center=true&vCenter=true&random=false&width=850&height=55&lines=LLM+Systems+%7C+RAG+%7C+Agents+%7C+Automation;Real-Time+AI+for+Business+Impact;Turning+Complex+Workflows+into+Reliable+AI+Products" alt="Animated typing intro" />
-
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyadelfar)
