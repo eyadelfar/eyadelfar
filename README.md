@@ -427,8 +427,8 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 [![Kaggle](https://img.shields.io/badge/Kaggle-eyadamin1233-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![GitHub](https://img.shields.io/badge/GitHub-eyadelfar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyadelfar)
 
-<br /><br />
+<br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=3" alt="The best way to predict the future is to create it." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=3" alt=The best way to predict the future is to create it. />
 
 </div>
