@@ -1,10 +1,9 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20Agentic%20Systems%20Architect&descSize=18&descAlignY=55&descColor=ffffff&v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=220&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=32&animation=twinkling&fontColor=0D1117&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20Agentic%20Systems%20Architect&descSize=18&descAlignY=55&descColor=0D1117&v=2" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20Agentic%20Systems%20Architect&descSize=18&descAlignY=55&descColor=ffffff&v=2" alt="Eyad Elfar animated header" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img width="100%" src="./assets/header-dark.svg" alt="Eyad Elfar — AI Engineer · LLM Specialist · Agentic Systems Architect" />
 </picture>
-</div>
 
 <br />
 
@@ -437,7 +436,9 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=0D1117&fontAlignY=68&v=2" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=2" alt="Animated footer with quote" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <img width="100%" src="./assets/footer-dark.svg" alt="The best way to predict the future is to create it." />
 </picture>
+
+</div>
