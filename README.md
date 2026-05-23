@@ -1,16 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Eyad Elfar animated header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Eyad Elfar animated header" />
+</picture>
 
-# 🚀 AI Engineer · LLM Specialist · Agentic Systems Builder
+# AI Engineer · LLM Specialist · Agentic Systems Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1100&color=3ABEF9&center=true&vCenter=true&random=false&width=850&height=55&lines=LLM+Systems+%7C+RAG+%7C+Agents+%7C+Automation;Real-Time+AI+for+Business+Impact;Turning+Complex+Workflows+into+Reliable+AI+Products" alt="Animated typing intro" />
+
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyadelfar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top%201%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Bronze%20Notebook%20Medal-B8860B?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark%20Mode%20Detected-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light%20Mode%20Detected-F6F8FA?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Theme-Auto%20Theme%20Aware-3ABEF9?style=for-the-badge&logo=github&logoColor=white" alt="Theme-aware GitHub badge" />
+</picture>
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=3ABEF9&style=flat-square" alt="Profile views" />
 
@@ -18,7 +33,7 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=%233ABEF9" width="24" align="absmiddle" alt="User icon" /> About Me
 
 <img align="right" alt="AI animation" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
@@ -28,11 +43,11 @@ I care about AI that does more than demo well. My focus is building systems that
 
 ### What I build
 
-- 🤖 LLM applications with retrieval, tools, memory, and workflow orchestration
-- 🔎 RAG systems for CRM intelligence, knowledge search, and decision support
-- 🧠 Multi-agent systems for sales, reporting, and business automation
-- 👁️ Computer vision and NLP pipelines with deployment-ready architecture
-- ⚙️ Data products that connect analytics, automation, and business impact
+- **LLM applications** with retrieval, tools, memory, and workflow orchestration
+- **RAG systems** for CRM intelligence, knowledge search, and decision support
+- **Multi-agent systems** for sales, reporting, and business automation
+- **Computer vision and NLP pipelines** with deployment-ready architecture
+- **Data products** that connect analytics, automation, and business impact
 
 <br clear="right" />
 
@@ -40,7 +55,7 @@ I care about AI that does more than demo well. My focus is building systems that
 
 <div align="center">
 
-## ⚡ Impact Snapshot
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Activity icon" /> Impact Snapshot
 
 </div>
 
@@ -59,8 +74,8 @@ I care about AI that does more than demo well. My focus is building systems that
 <b>Reporting Automated</b>
 </td>
 <td align="center" width="25%">
-<h3>Top 1%</h3>
-<b>Kaggle NLP</b>
+<h3>Bronze</h3>
+<b>Kaggle Notebook Medal</b>
 </td>
 </tr>
 <tr>
@@ -87,9 +102,7 @@ I care about AI that does more than demo well. My focus is building systems that
 
 <div align="center">
 
-## 💼 Professional Journey
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F7931E&center=true&vCenter=true&random=false&width=700&lines=From+Data+Science+to+Production+AI;Building+Systems+that+Create+Business+Impact" alt="Professional journey animation" />
+## <img src="https://api.iconify.design/lucide:briefcase-business.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Briefcase icon" /> Professional Journey
 
 </div>
 
@@ -97,7 +110,7 @@ I care about AI that does more than demo well. My focus is building systems that
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 AI Automation Engineer
+### <img src="https://api.iconify.design/lucide:rocket.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Rocket icon" /> AI Automation Engineer
 **Baron & Cabot** · Dubai, UAE  
 *May 2025 – Present*
 
@@ -116,7 +129,7 @@ Building real-time AI systems for sales intelligence, CRM automation, and agenti
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Data Scientist
+### <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Chart icon" /> Data Scientist
 **MENRV.AI** · Remote, UAE  
 *Apr 2024 – Apr 2025*
 
@@ -137,7 +150,7 @@ Developed AI systems across virtual try-on, content generation, forecasting, and
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Data Scientist, Freelance
+### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Education icon" /> Data Scientist, Freelance
 **Just to Learn** · Remote, Egypt  
 *Nov 2024 – Apr 2025*
 
@@ -156,7 +169,7 @@ Built AI components for AR-based learning platforms and assessment intelligence.
 </td>
 <td width="50%" valign="top">
 
-### 👨‍🏫 AI Instructor
+### <img src="https://api.iconify.design/lucide:presentation.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Presentation icon" /> AI Instructor
 **iSchool** · Hybrid, Egypt  
 *Dec 2023 – Mar 2024*
 
@@ -178,7 +191,7 @@ Taught AI fundamentals, Python, and practical machine learning to young learners
 
 <div align="center">
 
-## 🎨 Featured Projects
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Projects icon" /> Featured Projects
 
 ### From research ideas to deployable AI systems
 
@@ -188,15 +201,15 @@ Taught AI fundamentals, Python, and practical machine learning to young learners
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Gamers’ Mental Health Classifier
-**NLP · Explainable AI · Kaggle**
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Brain circuit icon" /> Gamers’ Mental Health Classifier
+**NLP · Explainable AI · Kaggle Notebook**
 
 Built an NLP pipeline to classify mental-health-related risk signals in gaming community discussions.
 
 **Impact**
 
 - **94%** classification accuracy
-- **Top 1%** Kaggle ranking
+- Earned a **Kaggle Bronze Notebook Medal**
 - **5,000+** Reddit posts processed
 - SHAP explanations for transparent model decisions
 
@@ -206,11 +219,12 @@ Built an NLP pipeline to classify mental-health-related risk signals in gaming c
 ![NLP](https://img.shields.io/badge/NLP-Processing-green?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-orange?style=flat-square)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-Bronze%20Notebook%20Medal-B8860B?style=flat-square&logo=kaggle&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚬 Cigarette Butt Detection System
+### <img src="https://api.iconify.design/lucide:scan-search.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Scan icon" /> Cigarette Butt Detection System
 **Computer Vision · Real-time Detection · Environmental AI**
 
 Developed a YOLOv8-based object detection system for identifying cigarette-butt litter in public-space imagery.
@@ -234,7 +248,7 @@ Developed a YOLOv8-based object detection system for identifying cigarette-butt 
 <tr>
 <td width="50%" valign="top">
 
-### 🔤 English Character OCR Engine
+### <img src="https://api.iconify.design/lucide:file-scan.svg?color=%233ABEF9" width="20" align="absmiddle" alt="OCR icon" /> English Character OCR Engine
 **OCR · Deep Learning · Deployment-ready Recognition**
 
 Created a custom OCR pipeline for English character recognition on scanned or low-quality documents.
@@ -256,7 +270,7 @@ Created a custom OCR pipeline for English character recognition on scanned or lo
 </td>
 <td width="50%" valign="top">
 
-### 🎓 One-Shot Attendance System
+### <img src="https://api.iconify.design/lucide:camera.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Camera icon" /> One-Shot Attendance System
 **Graduation Thesis · Face Recognition · Real-time Dashboarding**
 
 Built a real-time attendance system that captures attendance from a single image using face detection and recognition.
@@ -283,11 +297,11 @@ Built a real-time attendance system that captures attendance from a single image
 
 <div align="center">
 
-## 🛠️ Technical Arsenal
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%233ABEF9" width="24" align="absmiddle" alt="CPU icon" /> Technical Arsenal
 
 </div>
 
-### 🤖 AI / ML Specializations
+### AI / ML Specializations
 
 <p>
 <img src="https://img.shields.io/badge/LLMs-Fine--tuning%20%7C%20Inference%20%7C%20Evaluation-FF6B6B?style=for-the-badge" alt="LLMs" />
@@ -337,7 +351,7 @@ Built a real-time attendance system that captures attendance from a single image
 
 <div align="center">
 
-## 🎓 Education & Certifications
+## <img src="https://api.iconify.design/lucide:award.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Award icon" /> Education & Certifications
 
 </div>
 
@@ -345,18 +359,18 @@ Built a real-time attendance system that captures attendance from a single image
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ BSc in Computer Science & Artificial Intelligence
+### BSc in Computer Science & Artificial Intelligence
 **Helwan University** · Egypt  
 *2020 – 2024*
 
-**Grade:** Excellent with Honors 🏆
+**Grade:** Excellent with Honors
 
 **Graduation project:** One-Shot Attendance System using advanced face detection and recognition.
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 Certifications
+### Certifications
 
 - McKinsey Forward Program — McKinsey & Company, 2024
 - NLP Specialization — Coursera, 2024
@@ -372,7 +386,7 @@ Built a real-time attendance system that captures attendance from a single image
 
 <div align="center">
 
-## 💡 Currently Building & Exploring
+## <img src="https://api.iconify.design/lucide:compass.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Compass icon" /> Currently Building & Exploring
 
 </div>
 
@@ -400,21 +414,33 @@ mindmap
 ---
 
 <details>
-<summary><b>📊 GitHub Activity</b></summary>
+<summary><b><img src="https://api.iconify.design/lucide:chart-spline.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Chart icon" /> Theme-Aware GitHub Activity</b></summary>
 
 <br />
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=0D1117" />
+  <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub streak" />
+</picture>
 
 <br /><br />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+</picture>
 
 <br /><br />
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
+</picture>
 
 </div>
 
@@ -424,11 +450,7 @@ mindmap
 
 <div align="center">
 
-## 🤝 Let’s Collaborate
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=720&height=55&lines=LLM+Systems+%7C+RAG+%7C+Agents+%7C+Automation;Computer+Vision+%7C+NLP+%7C+Production+ML;Let%27s+turn+ideas+into+reliable+AI+products" alt="Collaboration animation" />
-
-<br />
+## <img src="https://api.iconify.design/lucide:handshake.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Handshake icon" /> Let’s Collaborate
 
 I’m open to collaboration around **LLM systems, RAG, AI automation, data products, computer vision, and production ML workflows**.
 
@@ -441,8 +463,12 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 
 <br /><br />
 
-### 💭 “The best way to predict the future is to create it.”
+### “The best way to predict the future is to create it.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Animated footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Animated footer" />
+</picture>
 
 </div>
