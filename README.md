@@ -6,7 +6,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Eyad Elfar animated header" />
 </picture>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=3ABEF9&center=true&vCenter=true&random=false&width=1200&height=70&lines=AI+Engineer+-+LLM+Specialist+-+Agentic+Systems+Architect" alt="AI Engineer - LLM Specialist - Agentic Systems Architect" />
+<h2>AI Engineer · LLM Specialist · Agentic Systems Architect</h2>
 
 <br />
 
@@ -438,7 +438,7 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 
 <br /><br />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=3ABEF9&center=true&vCenter=true&random=false&width=1200&height=60&lines=The+best+way+to+predict+the+future+is+to+create+it" alt="The best way to predict the future is to create it" />
+### “The best way to predict the future is to create it.”
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
