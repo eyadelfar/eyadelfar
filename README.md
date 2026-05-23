@@ -1,12 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=0D1117" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eyad%20Elfar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Eyad Elfar animated header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Elfar&fontSize=76&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Agentic%20Systems%20Architect&descSize=24&descAlignY=56" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=220&section=header&text=Eyad%20Elfar&fontSize=76&fontAlignY=32&animation=twinkling&fontColor=0D1117&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Agentic%20Systems%20Architect&descSize=24&descAlignY=56" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Elfar&fontSize=76&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Agentic%20Systems%20Architect&descSize=24&descAlignY=56" alt="Eyad Elfar animated header" />
 </picture>
-
-# AI Engineer · LLM Specialist · Agentic Systems Builder
 
 <br />
 
@@ -14,6 +12,30 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Bronze%20Notebook%20Medal-B8860B?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
+
+<br /><br />
+
+<details>
+<summary><b><img src="https://api.iconify.design/lucide:paintbrush.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Appearance icon" /> Appearance Switch</b></summary>
+
+<br />
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<b>Light Preview</b>
+<br /><br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,14,30&height=95&section=header&text=Light%20Mode&fontSize=32&fontColor=0D1117" alt="Light preview" />
+</td>
+<td align="center" width="50%">
+<b>Dark Preview</b>
+<br /><br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=95&section=header&text=Dark%20Mode&fontSize=32&fontColor=ffffff" alt="Dark preview" />
+</td>
+</tr>
+</table>
+
+</details>
 
 <br />
 
@@ -49,7 +71,7 @@ I care about AI that does more than demo well. My focus is building systems that
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
 <h3>10+</h3>
@@ -96,7 +118,7 @@ I care about AI that does more than demo well. My focus is building systems that
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -187,7 +209,7 @@ Taught AI fundamentals, Python, and practical machine learning to young learners
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -345,7 +367,7 @@ Built a real-time attendance system that captures attendance from a single image
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -413,7 +435,7 @@ mindmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=0D1117" />
-  <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub streak" />
+  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=eyadelfar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3ABEF9&fire=FF6B6B&currStreakLabel=3ABEF9" alt="GitHub streak" />
 </picture>
 
 <br /><br />
@@ -421,7 +443,7 @@ mindmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyadelfar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
 </picture>
 
 <br /><br />
@@ -429,7 +451,7 @@ mindmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-trophy-tawny.vercel.app/?username=eyadelfar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
 </picture>
 
 </div>
@@ -453,12 +475,10 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 
 <br /><br />
 
-### “The best way to predict the future is to create it.”
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Animated footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&fontSize=20&fontAlignY=72&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=130&section=footer&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&fontSize=20&fontAlignY=72&fontColor=0D1117" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&fontSize=20&fontAlignY=72&fontColor=ffffff" alt="Animated footer quote" />
 </picture>
 
 </div>
