@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,30&height=220&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=32&animation=twinkling&fontColor=0D1117&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20Agentic%20Systems%20Architect&descSize=18&descAlignY=55&descColor=0D1117" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Elfar&fontSize=78&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20Agentic%20Systems%20Architect&descSize=18&descAlignY=55&descColor=ffffff" alt="Eyad Elfar animated header" />
 </picture>
+</div>
 
 <br />
 
