@@ -20,17 +20,17 @@
 <tr>
 <td width="65%" valign="top">
 
-Hi, I’m **Eyad Elfar**, an **AI Engineer based in Dubai, UAE**. I build production-grade AI systems across **LLMs, RAG, agentic workflows, automation, multimodal AI, and MLOps**.
+Hi, I’m **Eyad Elfar**, an **AI Engineer in Dubai, UAE** building production **LLM, voice, and agentic systems** for **real estate and fintech**. I architect real-time copilots, voice agents, and automation that run inside live business workflows — not just demos.
 
-I care about AI that does more than demo well. My focus is building systems that are **fast, reliable, measurable, and useful inside real business workflows**.
+My focus is AI that is **fast, reliable, measurable, and useful**: sub-second guidance, agents that take real actions, and pipelines that move the numbers leadership actually tracks.
 
 ### What I build
 
-- **LLM applications** with retrieval, tools, memory, and workflow orchestration
-- **RAG systems** for CRM intelligence, knowledge search, and decision support
-- **Multi-agent systems** for sales, reporting, and business automation
-- **Computer vision and NLP pipelines** with deployment-ready architecture
-- **Data products** that connect analytics, automation, and business impact
+- **LLM applications** with RAG, tools, memory, and semantic caching
+- **Voice AI agents** (ElevenLabs) for lead qualification, follow-ups, and automated meeting booking
+- **Multi-agent & n8n automation** across the CRM lifecycle, reporting, and scheduling
+- **Multimodal pipelines** with Gemini Vision, computer vision, OCR, and multilingual TTS
+- **Data products** connecting analytics, ML scoring, and measurable business impact
 
 </td>
 <td width="35%" align="center" valign="top">
@@ -47,22 +47,22 @@ I care about AI that does more than demo well. My focus is building systems that
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Activity icon" /> Impact Snapshot
 
-</div>
-
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="25%"><h3>10+</h3><b>Production AI Systems</b></td>
-<td align="center" width="25%"><h3>68%</h3><b>Prep Time Reduced</b></td>
-<td align="center" width="25%"><h3>90%</h3><b>Reporting Automated</b></td>
-<td align="center" width="25%"><h3>Bronze</h3><b>Kaggle Notebook Medal</b></td>
+<td align="center" width="175"><h3>sub-500ms</h3><b>Real-time AI Guidance</b></td>
+<td align="center" width="175"><h3>30+</h3><b>CRM Stages Automated</b></td>
+<td align="center" width="175"><h3>21+</h3><b>n8n Workflows Deployed</b></td>
+<td align="center" width="175"><h3>14-Factor</h3><b>ML Lead Scoring</b></td>
 </tr>
 <tr>
-<td align="center" width="25%"><h3>15%</h3><b>Conversion Boost</b></td>
-<td align="center" width="25%"><h3>15K+</h3><b>Students Served</b></td>
-<td align="center" width="25%"><h3>&lt;750ms</h3><b>Event Processing</b></td>
-<td align="center" width="25%"><h3>50+</h3><b>Languages Supported</b></td>
+<td align="center" width="175"><h3>500M+</h3><b>Records Analyzed</b></td>
+<td align="center" width="175"><h3>15K+</h3><b>Students Served</b></td>
+<td align="center" width="175"><h3>50+</h3><b>Languages Supported</b></td>
+<td align="center" width="175"><h3>Bronze</h3><b>Kaggle Notebook Medal</b></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -80,17 +80,17 @@ I care about AI that does more than demo well. My focus is building systems that
 **Baron & Cabot** · Dubai, UAE  
 *May 2025 – Present*
 
-Building real-time AI systems for sales intelligence, CRM automation, and agentic workflow orchestration.
+Real-time AI for sales intelligence, voice agents, and agentic CRM automation.
 
 **Highlights**
 
-- Built a **multi-agent Sales Co-pilot** using RAG, CRM context, and workflow automation
-- Reduced pre-call preparation time by **68%**
-- Improved first-call conversion by **15%**
-- Automated **90%** of manual reporting workflows
-- Designed real-time event handling with **sub-750ms WebSocket processing**
+- Architected a **FastAPI/React copilot** ingesting live call transcripts over WebSockets — **Vertex AI + RAG + semantic caching** for **sub-500ms** guidance, objection handling, and property recommendations
+- Built **ElevenLabs voice agents** — a **lead-qualifying agent** and a **follow-up agent** — wired to **n8n** flows that automatically **book meetings** into the calendar
+- Engineered a **Google Cloud Run** platform automating **30+ stages** of the property lifecycle, with **Gemini Vision** for AML/document verification, bidirectional CRM sync, and **Twilio** WhatsApp client chasing
+- Deployed **21+ n8n workflows** turning call/meeting transcripts into scored **HTML/PDF coaching scorecards** for managers
+- Built Python pipelines with incremental **HubSpot** syncs feeding a **14-factor ML lead-scoring** model, plus NL Meta Ads querying and 10-year ROI modeling
 
-**Core stack:** GCP Vertex AI, RAG, CrewAI-style orchestration, WebSockets, CRM intelligence
+**Core stack:** Vertex AI, RAG, ElevenLabs, n8n, FastAPI, React, WebSockets, Gemini Vision, Twilio, HubSpot
 
 </td>
 <td width="50%" valign="top">
@@ -99,17 +99,16 @@ Building real-time AI systems for sales intelligence, CRM automation, and agenti
 **MENRV.AI** · Remote, UAE  
 *Apr 2024 – Apr 2025*
 
-Developed AI systems across virtual try-on, content generation, forecasting, and multilingual experiences.
+AI across virtual try-on, content generation, forecasting, and multilingual experiences.
 
 **Highlights**
 
-- Achieved **90% virtual try-on fit accuracy** across supported scenarios
-- Reduced reporting workflows from **8 hours to 5 minutes**
-- Built multilingual TTS experiences supporting **50+ languages**
-- Improved content generation speed by **80%**
-- Delivered forecasting workflows using deep learning and statistical models
+- Launched a **vLLM** merchandising suite (Shein, Myntra) — virtual try-on at **90% fit accuracy** and a content generator cutting creation time **80%**
+- Built an AI presentation assistant exporting full decks to **PowerPoint/Slides** — hours to **under 5 minutes**
+- Developed a forecasting engine (**BiLSTM + Prophet**, 20+ indicators), slashing reporting from **8 hours to 5 minutes**
+- Deployed multilingual **TTS across 50+ languages**, increasing global accessibility fivefold
 
-**Core stack:** vLLM, BiLSTM, Prophet, TTS, automation pipelines
+**Core stack:** vLLM, BiLSTM, Prophet, TTS, GCP, automation pipelines
 
 </td>
 </tr>
@@ -117,18 +116,16 @@ Developed AI systems across virtual try-on, content generation, forecasting, and
 <td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Education icon" /> Data Scientist, Freelance
-**Just to Learn** · Remote, Egypt  
+**NEOMI** · Remote, Egypt  
 *Nov 2024 – Apr 2025*
 
-Built AI components for AR-based learning platforms and assessment intelligence.
+AI components for AR-based learning platforms and assessment intelligence.
 
 **Highlights**
 
-- Served **15,000+ students** through AI-powered learning tools
-- Built handwriting recognition and LLM-based evaluation workflows
-- Reached **92% educator-alignment accuracy**
-- Reduced debugging time by **75%** through CI/CD improvements
-- Supported deployment across **20 German schools**
+- Designed the core AI engine for an **AR learning platform** serving **15,000+ students** — handwriting recognition + LLM evaluator at **92% educator alignment**
+- Implemented **CI/CD** and self-updating analytics dashboards, cutting educator debugging time **75%**
+- Scaled across **20 German schools**; assessment analytics improved insight accuracy **85%** and cut grading time **60%**
 
 **Core stack:** LLM evaluation, OCR, CI/CD, analytics, AR education workflows
 
@@ -139,15 +136,29 @@ Built AI components for AR-based learning platforms and assessment intelligence.
 **iSchool** · Hybrid, Egypt  
 *Dec 2023 – Mar 2024*
 
-Taught AI fundamentals, Python, and practical machine learning to young learners.
+AI fundamentals, Python, and practical machine learning for young learners.
 
 **Highlights**
 
 - Mentored **70+ students** across **64 interactive sessions**
-- Guided students through **36 AI-driven game projects**
-- Taught Python, AI fundamentals, reinforcement learning, Arduino, and PictoBlox
+- Guided students through **36 AI-driven game projects** using reinforcement learning
+- Hands-on Python, Scratch, Arduino, and PictoBlox prototyping
 
 **Core stack:** Python, ML fundamentals, RL basics, Arduino, PictoBlox
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### <img src="https://api.iconify.design/lucide:database.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Data icon" /> Data Analyst
+**e-finance** · On-site, Egypt · *Sep 2023 – Dec 2023*
+
+- Analyzed **500M+ transactional records**, surfacing **10+ behavioral insights** in digital payments for executive decision-making
+- Built an automated visualization pipeline that improved clarity and turnaround for monthly management reporting
+- Optimized ETL pipelines to **double data throughput** with no latency increase
+
+**Core stack:** SQL, ETL, data visualization
 
 </td>
 </tr>
@@ -273,6 +284,7 @@ Built a real-time attendance system that captures attendance from a single image
 <img src="https://img.shields.io/badge/LLMs-Fine--tuning%20%7C%20Inference%20%7C%20Evaluation-FF6B6B?style=for-the-badge" alt="LLMs" />
 <img src="https://img.shields.io/badge/RAG-Retrieval%20%7C%20Ranking%20%7C%20Grounding-4ECDC4?style=for-the-badge" alt="RAG" />
 <img src="https://img.shields.io/badge/Agentic%20Systems-Tools%20%7C%20Memory%20%7C%20Workflows-95E1D3?style=for-the-badge" alt="Agentic Systems" />
+<img src="https://img.shields.io/badge/Voice%20AI-ElevenLabs%20%7C%20TTS%20%7C%20Agents-FFB86C?style=for-the-badge" alt="Voice AI" />
 <img src="https://img.shields.io/badge/Multimodal%20AI-Vision%20%2B%20Language-F38181?style=for-the-badge" alt="Multimodal AI" />
 <img src="https://img.shields.io/badge/Computer%20Vision-Detection%20%7C%20OCR%20%7C%20Recognition-AA96DA?style=for-the-badge" alt="Computer Vision" />
 </p>
@@ -299,6 +311,13 @@ Built a real-time attendance system that captures attendance from a single image
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
 
+**Agents, Voice & Automation**
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20Agents-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 **Cloud, Data & MLOps**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -309,7 +328,6 @@ Built a real-time attendance system that captures attendance from a single image
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
 </details>
 
@@ -357,24 +375,38 @@ Built a real-time attendance system that captures attendance from a single image
 </div>
 
 ```mermaid
-mindmap
-  root((Eyad Elfar))
-    Real-time AI Systems
-      Multi-agent orchestration
-      WebSocket event processing
-      Low-latency AI workflows
-    LLM Applications
-      RAG optimization
-      Tool-using agents
-      Evaluation pipelines
-    Production MLOps
-      CI/CD for ML systems
-      Monitoring and observability
-      Scalable deployments
-    Multimodal AI
-      Vision and language
-      OCR and recognition
-      Business workflow automation
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','fontSize':'14px','lineColor':'#3ABEF9','clusterBkg':'#0D1117'}}}%%
+graph LR
+    R(("Eyad Elfar")):::root
+
+    R --> A["Voice & Sales AI"]:::cat
+    A --> A1["ElevenLabs voice agents"]:::leaf
+    A --> A2["Lead-qualifying agent"]:::leaf
+    A --> A3["Follow-up agent"]:::leaf
+    A --> A4["Real-time copilot - sub-500ms"]:::leaf
+
+    R --> B["Agentic Automation"]:::cat
+    B --> B1["n8n meeting booking"]:::leaf
+    B --> B2["CRM lifecycle orchestration"]:::leaf
+    B --> B3["21+ production workflows"]:::leaf
+
+    R --> C["LLM Applications"]:::cat
+    C --> C1["RAG + semantic caching"]:::leaf
+    C --> C2["Tool-using agents"]:::leaf
+    C --> C3["Evaluation pipelines"]:::leaf
+
+    R --> D["Production MLOps"]:::cat
+    D --> D1["Cloud Run deployments"]:::leaf
+    D --> D2["CI/CD for ML"]:::leaf
+    D --> D3["Monitoring & observability"]:::leaf
+
+    R --> E["Multimodal AI"]:::cat
+    E --> E1["Gemini Vision - AML/Docs"]:::leaf
+    E --> E2["TTS - 50+ languages"]:::leaf
+
+    classDef root fill:#3ABEF9,stroke:#1F6FEB,color:#0D1117;
+    classDef cat fill:#1F6FEB,stroke:#3ABEF9,color:#ffffff;
+    classDef leaf fill:#161B22,stroke:#30363D,color:#C9D1D9;
 ```
 
 ---
@@ -418,7 +450,7 @@ mindmap
 
 ## <img src="https://api.iconify.design/lucide:handshake.svg?color=%233ABEF9" width="24" align="absmiddle" alt="Handshake icon" /> Let’s Collaborate
 
-I’m open to collaboration around **LLM systems, RAG, AI automation, data products, computer vision, and production ML workflows**.
+I’m open to collaboration around **LLM systems, voice agents, RAG, AI automation, data products, computer vision, and production ML workflows**.
 
 <br />
 
@@ -427,6 +459,6 @@ I’m open to collaboration around **LLM systems, RAG, AI automation, data produ
 [![Kaggle](https://img.shields.io/badge/Kaggle-eyadamin1233-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![GitHub](https://img.shields.io/badge/GitHub-eyadelfar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyadelfar)
 <br />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=3" alt=The best way to predict the future is to create it. />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&v=3" alt="The best way to predict the future is to create it." />
 
 </div>
