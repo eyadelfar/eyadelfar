@@ -375,38 +375,55 @@ Built a real-time attendance system that captures attendance from a single image
 </div>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','fontSize':'14px','lineColor':'#3ABEF9','clusterBkg':'#0D1117'}}}%%
-graph LR
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','fontSize':'13px','lineColor':'#3ABEF9'}}}%%
+flowchart TB
     R(("Eyad Elfar")):::root
 
-    R --> A["Voice & Sales AI"]:::cat
-    A --> A1["ElevenLabs voice agents"]:::leaf
-    A --> A2["Lead-qualifying agent"]:::leaf
-    A --> A3["Follow-up agent"]:::leaf
-    A --> A4["Real-time copilot - sub-500ms"]:::leaf
+    R --> S1 & S2 & S3 & S4 & S5
 
-    R --> B["Agentic Automation"]:::cat
-    B --> B1["n8n meeting booking"]:::leaf
-    B --> B2["CRM lifecycle orchestration"]:::leaf
-    B --> B3["21+ production workflows"]:::leaf
-
-    R --> C["LLM Applications"]:::cat
-    C --> C1["RAG + semantic caching"]:::leaf
-    C --> C2["Tool-using agents"]:::leaf
-    C --> C3["Evaluation pipelines"]:::leaf
-
-    R --> D["Production MLOps"]:::cat
-    D --> D1["Cloud Run deployments"]:::leaf
-    D --> D2["CI/CD for ML"]:::leaf
-    D --> D3["Monitoring & observability"]:::leaf
-
-    R --> E["Multimodal AI"]:::cat
-    E --> E1["Gemini Vision - AML/Docs"]:::leaf
-    E --> E2["TTS - 50+ languages"]:::leaf
+    subgraph S1["Voice & Sales AI"]
+        direction TB
+        A1["ElevenLabs voice agents"]:::leaf
+        A2["Lead-qualifying agent"]:::leaf
+        A3["Follow-up agent"]:::leaf
+        A1 ~~~ A2 ~~~ A3
+    end
+    subgraph S2["Agentic Automation"]
+        direction TB
+        B1["n8n meeting booking"]:::leaf
+        B2["CRM orchestration"]:::leaf
+        B3["21+ workflows"]:::leaf
+        B1 ~~~ B2 ~~~ B3
+    end
+    subgraph S3["LLM Applications"]
+        direction TB
+        C1["RAG + semantic caching"]:::leaf
+        C2["Tool-using agents"]:::leaf
+        C3["Evaluation pipelines"]:::leaf
+        C1 ~~~ C2 ~~~ C3
+    end
+    subgraph S4["Production MLOps"]
+        direction TB
+        D1["Cloud Run deploys"]:::leaf
+        D2["CI/CD for ML"]:::leaf
+        D3["Monitoring"]:::leaf
+        D1 ~~~ D2 ~~~ D3
+    end
+    subgraph S5["Multimodal AI"]
+        direction TB
+        E1["Gemini Vision - AML/Docs"]:::leaf
+        E2["TTS - 50+ languages"]:::leaf
+        E3["Computer vision & OCR"]:::leaf
+        E1 ~~~ E2 ~~~ E3
+    end
 
     classDef root fill:#3ABEF9,stroke:#1F6FEB,color:#0D1117;
-    classDef cat fill:#1F6FEB,stroke:#3ABEF9,color:#ffffff;
     classDef leaf fill:#161B22,stroke:#30363D,color:#C9D1D9;
+    style S1 fill:#0D1117,stroke:#3ABEF9,color:#3ABEF9;
+    style S2 fill:#0D1117,stroke:#3ABEF9,color:#3ABEF9;
+    style S3 fill:#0D1117,stroke:#3ABEF9,color:#3ABEF9;
+    style S4 fill:#0D1117,stroke:#3ABEF9,color:#3ABEF9;
+    style S5 fill:#0D1117,stroke:#3ABEF9,color:#3ABEF9;
 ```
 
 ---
