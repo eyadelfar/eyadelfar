@@ -73,13 +73,21 @@ My focus is AI that is **fast, reliable, measurable, and useful**: sub-second gu
 </div>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','cScale0':'#3ABEF9','cScale1':'#2D8FE0','cScale2':'#1F6FEB','cScale3':'#6E40C9','cScale4':'#0E7C66','cScaleLabel0':'#0D1117','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff'}}}%%
-timeline
-    2023 · e-finance : Data Analyst : Analyzed 500M+ transactional records, surfacing 10+ behavioral insights in digital payments for executive decision-making : Built an automated visualization pipeline that improved clarity and turnaround for monthly management reporting : Optimized ETL pipelines to double data throughput with no latency increase
-    2023-24 · iSchool : AI Instructor : Mentored 70+ students across 64 interactive sessions : Guided students through 36 AI-driven game projects using reinforcement learning : Hands-on Python, Scratch, Arduino, and PictoBlox prototyping
-    2024-25 · MENRV.AI : Data Scientist : Launched a vLLM merchandising suite (Shein, Myntra) with virtual try-on at 90% fit accuracy and a content generator cutting creation time 80% : Built an AI presentation assistant exporting full decks to PowerPoint and Slides, from hours to under 5 minutes : Developed a forecasting engine (BiLSTM + Prophet, 20+ indicators), cutting reporting from 8 hours to 5 minutes : Deployed multilingual TTS across 50+ languages, increasing global accessibility fivefold
-    2024-25 · NEOMI : Data Scientist, Freelance : Designed the core AI engine for an AR learning platform serving 15,000+ students, with handwriting recognition and an LLM evaluator at 92% educator alignment : Implemented CI/CD and self-updating analytics dashboards, cutting educator debugging time 75% : Scaled across 20 German schools, improving insight accuracy 85% and cutting grading time 60%
-    2025-Now · Baron & Cabot : AI Automation Engineer : Architected a FastAPI and React copilot ingesting live call transcripts over WebSockets, using Vertex AI, RAG, and semantic caching for sub-500ms guidance, objection handling, and property recommendations : Built ElevenLabs voice agents (lead-qualifying and follow-up) wired to n8n flows that automatically book meetings into the calendar : Engineered a Google Cloud Run platform automating 30+ stages of the property lifecycle, with Gemini Vision for AML and document verification, CRM sync, and Twilio WhatsApp client chasing : Deployed 21+ n8n workflows turning transcripts into scored HTML and PDF coaching scorecards for managers : Built Python pipelines with HubSpot syncs feeding a 14-factor ML lead-scoring model, plus Meta Ads querying and 10-year ROI modeling
+%%{init: {'theme':'base','flowchart':{'wrappingWidth':300},'themeVariables':{'fontFamily':'monospace','lineColor':'#3ABEF9'}}}%%
+flowchart LR
+    E["<b>2023 · e-finance</b><br/><b>Data Analyst</b><br/>Analyzed 500M+ transactional records, surfacing 10+ behavioral insights in digital payments. Built an automated reporting pipeline and optimized ETL to double throughput with no latency increase."]:::c0
+    I["<b>2023-24 · iSchool</b><br/><b>AI Instructor</b><br/>Mentored 70+ students across 64 sessions and guided 36 AI-driven game projects using reinforcement learning. Hands-on Python, Scratch, Arduino, and PictoBlox."]:::c1
+    M["<b>2024-25 · MENRV.AI</b><br/><b>Data Scientist</b><br/>Launched a vLLM merchandising suite (Shein, Myntra) with virtual try-on at 90% fit and a content generator (-80% time). Built an AI deck assistant, a BiLSTM + Prophet forecaster (8h to 5min), and TTS across 50+ languages."]:::c2
+    N["<b>2024-25 · NEOMI</b><br/><b>Data Scientist, Freelance</b><br/>Built the core AI engine for an AR learning platform serving 15,000+ students, with handwriting recognition and an LLM evaluator at 92% alignment. Added CI/CD (debugging -75%) and scaled to 20 German schools."]:::c3
+    B["<b>2025-Now · Baron & Cabot</b><br/><b>AI Automation Engineer</b><br/>Architected a FastAPI/React copilot over WebSockets using Vertex AI, RAG, and semantic caching for sub-500ms guidance. Built ElevenLabs voice agents on n8n that auto-book meetings, a Cloud Run platform automating 30+ CRM stages with Gemini Vision, and a 14-factor ML lead-scoring model."]:::c4
+
+    E --> I --> M --> N --> B
+
+    classDef c0 fill:#0E2A38,stroke:#3ABEF9,color:#E6EDF3,text-align:left;
+    classDef c1 fill:#102844,stroke:#2D8FE0,color:#E6EDF3,text-align:left;
+    classDef c2 fill:#0E2150,stroke:#1F6FEB,color:#E6EDF3,text-align:left;
+    classDef c3 fill:#231047,stroke:#6E40C9,color:#E6EDF3,text-align:left;
+    classDef c4 fill:#062E27,stroke:#0E7C66,color:#E6EDF3,text-align:left;
 ```
 
 
