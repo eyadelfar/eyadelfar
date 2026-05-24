@@ -72,17 +72,27 @@ My focus is AI that is **fast, reliable, measurable, and useful**: sub-second gu
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','cScale0':'#3ABEF9','cScale1':'#1F6FEB','cScale2':'#6E40C9','cScale3':'#0E7C66','cScaleLabel0':'#0D1117','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff'}}}%%
+timeline
+    2023 : Data Analyst · e-finance : 500M+ records analyzed
+    2024 : AI Instructor · iSchool : 70+ students · 36 AI games
+         : Data Scientist · MENRV.AI : vLLM try-on 90% · TTS 50+ languages
+    2025 : Freelance DS · NEOMI : AR engine · 15K+ students · 92% alignment
+         : AI Engineer · Baron & Cabot : sub-500ms sales copilot
+    Now  : Baron & Cabot : 21+ n8n workflows · 14-factor lead scoring
+```
 
-### <img src="https://api.iconify.design/lucide:rocket.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Rocket icon" /> AI Automation Engineer
-**Baron & Cabot** · Dubai, UAE  
-*May 2025 – Present*
+<div align="center"><sub><i>Expand any role below for the full breakdown.</i></sub></div>
+
+<br />
+
+<details open>
+<summary><img src="https://api.iconify.design/lucide:rocket.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Rocket icon" /> &nbsp;<b>AI Automation Engineer · Baron &amp; Cabot</b> &nbsp;·&nbsp; <i>Dubai, UAE · May 2025 – Present</i></summary>
+
+<br />
 
 Real-time AI for sales intelligence, voice agents, and agentic CRM automation.
-
-**Highlights**
 
 - Architected a **FastAPI/React copilot** ingesting live call transcripts over WebSockets — **Vertex AI + RAG + semantic caching** for **sub-500ms** guidance, objection handling, and property recommendations
 - Built **ElevenLabs voice agents** — a **lead-qualifying agent** and a **follow-up agent** — wired to **n8n** flows that automatically **book meetings** into the calendar
@@ -90,79 +100,69 @@ Real-time AI for sales intelligence, voice agents, and agentic CRM automation.
 - Deployed **21+ n8n workflows** turning call/meeting transcripts into scored **HTML/PDF coaching scorecards** for managers
 - Built Python pipelines with incremental **HubSpot** syncs feeding a **14-factor ML lead-scoring** model, plus NL Meta Ads querying and 10-year ROI modeling
 
-**Core stack:** Vertex AI, RAG, ElevenLabs, n8n, FastAPI, React, WebSockets, Gemini Vision, Twilio, HubSpot
+**Core stack:** Vertex AI · RAG · ElevenLabs · n8n · FastAPI · React · WebSockets · Gemini Vision · Twilio · HubSpot
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Chart icon" /> Data Scientist
-**MENRV.AI** · Remote, UAE  
-*Apr 2024 – Apr 2025*
+<details>
+<summary><img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Chart icon" /> &nbsp;<b>Data Scientist · MENRV.AI</b> &nbsp;·&nbsp; <i>Remote, UAE · Apr 2024 – Apr 2025</i></summary>
+
+<br />
 
 AI across virtual try-on, content generation, forecasting, and multilingual experiences.
-
-**Highlights**
 
 - Launched a **vLLM** merchandising suite (Shein, Myntra) — virtual try-on at **90% fit accuracy** and a content generator cutting creation time **80%**
 - Built an AI presentation assistant exporting full decks to **PowerPoint/Slides** — hours to **under 5 minutes**
 - Developed a forecasting engine (**BiLSTM + Prophet**, 20+ indicators), slashing reporting from **8 hours to 5 minutes**
 - Deployed multilingual **TTS across 50+ languages**, increasing global accessibility fivefold
 
-**Core stack:** vLLM, BiLSTM, Prophet, TTS, GCP, automation pipelines
+**Core stack:** vLLM · BiLSTM · Prophet · TTS · GCP · automation pipelines
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Education icon" /> Data Scientist, Freelance
-**NEOMI** · Remote, Egypt  
-*Nov 2024 – Apr 2025*
+<details>
+<summary><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Education icon" /> &nbsp;<b>Data Scientist, Freelance · NEOMI</b> &nbsp;·&nbsp; <i>Remote, Egypt · Nov 2024 – Apr 2025</i></summary>
+
+<br />
 
 AI components for AR-based learning platforms and assessment intelligence.
-
-**Highlights**
 
 - Designed the core AI engine for an **AR learning platform** serving **15,000+ students** — handwriting recognition + LLM evaluator at **92% educator alignment**
 - Implemented **CI/CD** and self-updating analytics dashboards, cutting educator debugging time **75%**
 - Scaled across **20 German schools**; assessment analytics improved insight accuracy **85%** and cut grading time **60%**
 
-**Core stack:** LLM evaluation, OCR, CI/CD, analytics, AR education workflows
+**Core stack:** LLM evaluation · OCR · CI/CD · analytics · AR education workflows
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### <img src="https://api.iconify.design/lucide:presentation.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Presentation icon" /> AI Instructor
-**iSchool** · Hybrid, Egypt  
-*Dec 2023 – Mar 2024*
+<details>
+<summary><img src="https://api.iconify.design/lucide:presentation.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Presentation icon" /> &nbsp;<b>AI Instructor · iSchool</b> &nbsp;·&nbsp; <i>Hybrid, Egypt · Dec 2023 – Mar 2024</i></summary>
+
+<br />
 
 AI fundamentals, Python, and practical machine learning for young learners.
-
-**Highlights**
 
 - Mentored **70+ students** across **64 interactive sessions**
 - Guided students through **36 AI-driven game projects** using reinforcement learning
 - Hands-on Python, Scratch, Arduino, and PictoBlox prototyping
 
-**Core stack:** Python, ML fundamentals, RL basics, Arduino, PictoBlox
+**Core stack:** Python · ML fundamentals · RL basics · Arduino · PictoBlox
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+</details>
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=%233ABEF9" width="20" align="absmiddle" alt="Data icon" /> Data Analyst
-**e-finance** · On-site, Egypt · *Sep 2023 – Dec 2023*
+<details>
+<summary><img src="https://api.iconify.design/lucide:database.svg?color=%233ABEF9" width="18" align="absmiddle" alt="Data icon" /> &nbsp;<b>Data Analyst · e-finance</b> &nbsp;·&nbsp; <i>On-site, Egypt · Sep 2023 – Dec 2023</i></summary>
+
+<br />
 
 - Analyzed **500M+ transactional records**, surfacing **10+ behavioral insights** in digital payments for executive decision-making
 - Built an automated visualization pipeline that improved clarity and turnaround for monthly management reporting
 - Optimized ETL pipelines to **double data throughput** with no latency increase
 
-**Core stack:** SQL, ETL, data visualization
+**Core stack:** SQL · ETL · data visualization
 
-</td>
-</tr>
-</table>
+</details>
+
 
 ---
 
