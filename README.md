@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://eyadelfar.github.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Bronze%20Notebook%20Medal-B8860B?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/eyadamin1233)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyadamen588@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1StwAG0ouncBrJ6mTprTm81-g9CNwOzPd/view)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=whi)
 <br />
 <img src="https://komarev.com/ghpvc/?username=eyadelfar&label=Profile%20Views&color=3ABEF9&style=flat-square" alt="Profile views" />
 
@@ -78,7 +78,7 @@ My focus is AI that is **fast, reliable, measurable, and useful**: sub-second gu
 flowchart LR
     E["<b>2023 · e-finance</b><br/><b>Data Analyst</b><br/>Analyzed 500M+ transactional records, surfacing 10+ behavioral insights in digital payments. Built an automated reporting pipeline and optimized ETL to double throughput with no latency increase."]:::c0
     I["<b>2023-24 · iSchool</b><br/><b>AI Instructor</b><br/>Mentored 70+ students across 64 sessions and guided 36 AI-driven game projects using reinforcement learning. Hands-on Python, Scratch, Arduino, and PictoBlox."]:::c1
-    M["<b>2024-25 · MENRV.AI</b><br/><b>Data Scientist</b><br/>Launched a vLLM merchandising suite (Shein, Myntra) with virtual try-on at 90% fit and a content generator (-80% time). Built an AI deck assistant, a BiLSTM + Prophet forecaster (8h to 5min), and TTS across 50+ languages."]:::c2
+    M["<b>2024-25 · MENRV.AI</b><br/><b>Data Scientist</b><br/>Launched a VLM merchandising suite with virtual try-on 90% fit and a content generator (-80% time). Built an AI deck assistant, a forecaster (8h to 5min), and TTS across 50+ languages."]:::c2
     N["<b>2024-25 · NEOMI</b><br/><b>Data Scientist, Freelance</b><br/>Built the core AI engine for an AR learning platform serving 15,000+ students, with handwriting recognition and an LLM evaluator at 92% alignment. Added CI/CD (debugging -75%) and scaled to 20 German schools."]:::c3
     B["<b>2025-Now · Baron & Cabot</b><br/><b>AI Automation Engineer</b><br/>Architected a FastAPI/React copilot over WebSockets using Vertex AI, RAG, and semantic caching for sub-500ms guidance. Built ElevenLabs voice agents on n8n that auto-book meetings, a Cloud Run platform automating 30+ CRM stages with Gemini Vision, and a 14-factor ML lead-scoring model."]:::c4
 
